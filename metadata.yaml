@@ -1,0 +1,31 @@
+_repo: The-Sword-of-Antietam--A-Story-of-the-Nation-s-Crisis_7862
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Altsheler, Joseph A. (Joseph Alexander)
+    aliases:
+    - Altsheler, Joseph Alexander
+    - Altsheler, J. A. (Joseph Alexander)
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '2561'
+    url: http://www.gutenberg.org/2009/agents/2561
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Alexander_Altsheler
+description: The Civil War Series, Volume 4
+gutenberg_bookshelf:
+- US Civil War
+- Children's Fiction
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7862'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Sword of Antietam: A Story of the Nation''s Crisis'
+url: http://www.gutenberg.org/ebooks/7862
